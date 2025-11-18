@@ -14,7 +14,8 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration/overview
 
 В работе использовалась **линейная регрессия**
 
-a(x) = w ⋅ x
+$a(x) = w ⋅ x$
+
 
 Лучший результат получен при использовании **L2-регуляризации** (Ridge Regression).
 
@@ -25,6 +26,8 @@ a(x) = w ⋅ x
 
 Подробное описание признаков и хода решения содержится в файле:  
 📄 **[description.pdf](https://github.com/CunningNobleman/Taxicab-Linear-Regression/blob/main/description.pdf)**
+
+Скачать датасет можно по ссылке на Kaggle: https://www.kaggle.com/c/nyc-taxi-trip-duration/overview
 
 ---
 
